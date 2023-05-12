@@ -2,7 +2,7 @@ import { ProductCard as ProductCardHOC } from './ProductCard';
 import { ProductTitle } from "./ProductTitle";
 import { ProductImage } from "./ProductImage";
 import { ProductButtons } from "./ProductButtons";
-import {ProductCardHOCProps} from "../interfaces/interfaces";
+import { ProductCardHOCProps } from "../interfaces/interfaces";
 
 
 export { ProductImage } from './ProductImage';
